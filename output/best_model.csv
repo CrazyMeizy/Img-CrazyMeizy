@@ -1,0 +1,2 @@
+stage,epoch,validation_accuracy,test_accuracy,test_loss
+08_unfrozen,10,0.9145,0.9021,0.2720528411388397
